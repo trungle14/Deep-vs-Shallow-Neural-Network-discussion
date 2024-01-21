@@ -1,9 +1,7 @@
-### BreadcrumbsDeep-vs-Shallow-Neural-Network-discussion
+### Deep-vs-Shallow-Neural-Network-discussion
  
  ***As we may know Deep networks can be adapted to such prior information while the Shallow one can not. Let's actually see the results in different scenarios in this post.***\
 ***Inspired by the work https://ojs.aaai.org/index.php/AAAI/article/view/10913 and the opportunity to expose this problem from my Professor in Predictive Analytics class.***
-
-*Let's start*
 
 
 
